@@ -1,0 +1,15 @@
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\obj\Debug\netcoreapp2.1\LearningAspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\obj\Debug\netcoreapp2.1\LearningAspNetCore.AssemblyInfoInputs.cache
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\obj\Debug\netcoreapp2.1\LearningAspNetCore.AssemblyInfo.cs
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\bin\Debug\netcoreapp2.1\LearningAspNetCore.deps.json
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\bin\Debug\netcoreapp2.1\LearningAspNetCore.runtimeconfig.json
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\bin\Debug\netcoreapp2.1\LearningAspNetCore.runtimeconfig.dev.json
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\bin\Debug\netcoreapp2.1\LearningAspNetCore.dll
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\bin\Debug\netcoreapp2.1\LearningAspNetCore.pdb
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\obj\Debug\netcoreapp2.1\LearningAspNetCore.csprojAssemblyReference.cache
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\obj\Debug\netcoreapp2.1\LearningAspNetCore.RazorAssemblyInfo.cache
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\obj\Debug\netcoreapp2.1\LearningAspNetCore.RazorAssemblyInfo.cs
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\obj\Debug\netcoreapp2.1\LearningAspNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\obj\Debug\netcoreapp2.1\LearningAspNetCore.dll
+C:\Users\Evandro Junior\Documents\ASP\ASP.NET-CORE\usingRestAPI\LearningASP.NET-CORE\LearningAspNetCore\LearningAspNetCore\obj\Debug\netcoreapp2.1\LearningAspNetCore.pdb
